@@ -25,6 +25,10 @@ const Layout = ({ props, children, disablePaddingBottom = false }) => {
           charset="UTF-8"
           href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css"
         />
+
+     <script 
+         src="https://sdk.intent.upflowy.com/upflowy-intent.min.js?wid=UW-gCN5YTv61Z">
+     </script>
       </Helmet>
 
       <Header />

@@ -27,8 +27,8 @@ const Layout = ({ props, children, disablePaddingBottom = false }) => {
         />
 
      <script 
-         src="https://sdk.intent.upflowy.com/upflowy-intent.min.js?wid=UW-gCN5YTv61Z">
-     </script>
+        src="https://sdk-testing.intent.upflowy.com/upflowy-intent.min.js?wid=UW-3HSfEKZUOE">
+      </script>
       </Helmet>
 
       <Header />
